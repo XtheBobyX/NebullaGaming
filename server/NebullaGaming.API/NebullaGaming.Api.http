@@ -1,0 +1,6 @@
+@NebullaGaming.API_HostAddress = http://localhost:5211
+
+GET {{NebullaGaming.API_HostAddress}}
+Accept: application/json
+
+###
