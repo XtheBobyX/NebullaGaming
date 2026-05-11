@@ -14,7 +14,7 @@ node_modules
 dist
 dist-ssr
 
-# Envitonment
+# Environment
 .env
 .env.*
 *.local
@@ -43,3 +43,4 @@ obj/
 
 # temp
 *.tmp
+docst/
